@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://github.com/giingo</link>
+    <atom:link href="https://github.com/giingo/feed.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Sun, 18 Jan 2015 03:05:26 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Jan 2015 03:05:26 +0000</lastBuildDate>
+
+    
+    
+    <item>
+      <title>Welcome to Giingo Labs Blog</title>
+      <link>https://github.com/giingo/2015/01/17/welcomemessage/</link>
+      <pubDate>Sat, 17 Jan 2015 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>https://github.com/giingo/2015/01/17/welcomemessage</guid>
+      <description>&lt;p&gt;This is the blog for Giingo Labs and our Spark Core powered quadcopter. Giingo Labs is a tech company based in Ulaanbaatar, Mongolia.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+
+  </channel> 
+</rss>
